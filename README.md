@@ -10,5 +10,5 @@
   <ul>
     <li>문의·버그 신고: <a href="mailto:teamgramoxone@gmail.com">teamgramoxone@gmail.com</a></li>
     <li><a href="https://blog.naver.com/teamgramoxone">공식 블로그</a> · <a href="https://twitter.com/teamgramoxone">X</a></li>
-    <li><a href="https://blog.naver.com/teamgramoxone/221365291227">개인정보처리방침</a></li>
+    <li><a href="https://teamgramoxone.github.io/privacy/index.html">개인정보처리방침</a></li>
   </ul>
